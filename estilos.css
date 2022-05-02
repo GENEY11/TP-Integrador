@@ -1,0 +1,108 @@
+header{
+    background-color: rgb(83, 84, 84);
+}
+
+
+header a{
+    text-decoration: none;
+    color: darkgray;
+}
+footer{
+    background-color: darkcyan;
+}
+footer a{
+    text-decoration: none;
+    
+    color: white;
+}
+#centro{
+    text-align: center;
+}
+
+#links{
+    padding: 10px;
+    margin:  10px;
+}
+#linksf{
+    padding: 10px;
+    margin:  10px;
+}
+#blanco{
+    color: white;
+}
+#imagenFondo{
+    background-size:cover;
+    background-image: url(./Img/ba1.jpg);
+    
+}
+#tarjeta{
+    width: 200px;
+}
+.vinculo{
+    color: green;
+}
+.derecha{
+    text-align: right;
+    font-weight: bold;
+}
+.fondo2{
+    background-color: darkslategray;
+    color: white;
+}
+.boton{
+    text-align: none;
+    padding: 6px 12px;
+    margin: 3px;
+    border-radius: 6px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+
+.boton2{
+    text-align: none;
+    padding: 6px 12px;
+    margin: 3px;
+    border-radius: 6px;
+    background-color: rgb(11, 188, 35);
+    border: 2px solid rgb(11, 188, 35);
+    color: white;
+}
+.boton3{
+    text-align: none;
+    padding: 6px 12px;
+    margin: 3px;
+    border-radius: 6px;
+    background-color: transparent;
+    color: white;
+}
+.react{
+    text-align: none;
+    border-radius: 6px;
+    background-color:deepskyblue;
+    color: white;
+}
+.javascript{
+    text-align: none;
+    border-radius: 6px;
+    background-color:yellow;
+    color: black;
+}
+.negocios{
+    text-align: none;
+    border-radius: 6px;
+    background-color:gray;
+    color: white;
+}
+.startup{
+    text-align: none;
+    border-radius: 6px;
+    background-color:red;
+    color: white;
+}
+#enviar{
+    background-color: rgb(14, 229, 86);
+}
+#lFormulario{
+    color: gray;
+}
