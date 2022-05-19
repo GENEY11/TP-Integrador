@@ -15,9 +15,13 @@ footer a{
     
     color: white;
 }
-#centro{
+.centro{
     text-align: center;
 }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 #links{
     padding: 10px;
@@ -30,13 +34,25 @@ footer a{
 #blanco{
     color: white;
 }
+#imgLogo{
+    position: relative;
+    left: 30px;
+
+}
 #imagenFondo{
     background-size:cover;
     background-image: url(./Img/ba1.jpg);
+    background-position:bottom;
+    
+}
+#imgPlaya{
+    width: 100%;
+    background-size: cover;
+    background-image: url(./Img/honolulu.jpg);
     
 }
 #tarjeta{
-    width: 200px;
+    width: 300px;
 }
 .vinculo{
     color: green;
